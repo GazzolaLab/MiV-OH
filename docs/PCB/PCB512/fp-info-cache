@@ -1,0 +1,50 @@
+11697451891456
+MEAboard_512_footprint
+PinHeader_1x01_P1.27mm_Vertical_0.483_GND
+Through hole straight pin header, 1x01, 1.27mm pitch, single row
+Through hole pin header THT 1x01 1.27mm single row
+0
+1
+1
+MEAboard_512_footprint
+PinHeader_1x01_P1.27mm_Vertical_0.483_STIM
+Through hole straight pin header, 1x01, 1.27mm pitch, single row
+Through hole pin header THT 1x01 1.27mm single row
+0
+1
+1
+MEAboard_512_footprint
+PinHeader_1x05_P1.5mm_Vertical
+Through hole straight pin header, 1x05, 1.27mm pitch, single row
+Through hole pin header THT 1x05 1.27mm single row
+0
+5
+5
+MEAboard_512_footprint
+PinHeader_1x06_P1.5mm_Vertical
+Through hole straight pin header, 1x05, 1.27mm pitch, single row
+Through hole pin header THT 1x05 1.27mm single row
+0
+6
+6
+MEAboard_512_footprint
+PinHeader_1x06_P1.27mm_Vertical_0.483mm
+Through hole straight pin header, 1x06, 1.27mm pitch, single row
+Through hole pin header THT 1x06 1.27mm single row
+0
+6
+6
+MEAboard_512_footprint
+PinHeader_2x32_P0.4mm_Vertical_SMD_Molex
+surface-mounted straight pin header, 2x32, 0.4mm pitch, double rows
+Surface mounted pin header SMD 2x32 0.4mm double row
+0
+64
+64
+MEAboard_512_footprint
+PinHeader_2x32_P0.4mm_Vertical_SMD_Molex_Back
+surface-mounted straight pin header, 2x32, 0.4mm pitch, double rows
+Surface mounted pin header SMD 2x32 0.4mm double row
+0
+64
+64

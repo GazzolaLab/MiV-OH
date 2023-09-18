@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MEAboard_128_Molex_footprint")(type "KiCad")(uri "${KIPRJMOD}/MEAboard_128_Molex_footprint.pretty")(options "")(descr ""))
+)
