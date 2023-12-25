@@ -18,7 +18,7 @@ For more information on *Mind in Vitro*, see the `project <https://mindinvitro.i
    :maxdepth: 2
    :caption: System Overview
 
-   overview/sytem_overview
+   overview/system_overview
 
 .. toctree::
    :maxdepth: 2
