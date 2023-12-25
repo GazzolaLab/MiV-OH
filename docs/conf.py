@@ -23,7 +23,7 @@ import sys
 
 project = 'MiV-OH'
 copyright = "2023, GazzolaLab"
-author = "Gazzola Lab"
+author = "skim0119"
 
 
 # -- General configuration ---------------------------------------------------
@@ -37,7 +37,7 @@ extensions = [
     "sphinx.ext.autosectionlabel",
     #'sphinx.ext.napoleon',
     "sphinx.ext.viewcode",
-    "sphinx_rtd_theme",
+    #"sphinx_rtd_theme",
     "sphinx.ext.mathjax",
     "myst_nb",
 ]
