@@ -1,6 +1,6 @@
 # Design Files for PCB
 
-The PCB design for each recording configuration is provided here. Designs are made using free software KiCad (https://www.kicad.org).
+The PCB design for each recording configuration is provided here. Designs are made using free software [KiCad](https://www.kicad.org).
 
 - [59 channel](PCB59.zip)
     - This layout is compatible with the widely employed Multichannel Systems 60MEA series MEAs.

@@ -1,6 +1,6 @@
 # Design Files for MEA
 
-Design files of a variety of MEAs with different resolutions and configurations are provided here. Designs are made in GDS format using free software Klayout (https://www.klayout.de).
+Design files of a variety of MEAs with different resolutions and configurations are provided here. Designs are made in GDS format using free software [Klayout](https://www.klayout.de).
 
 ## 59 electrode 
 
