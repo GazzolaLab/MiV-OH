@@ -11,7 +11,7 @@ The platform supports multimodal interaction and seamless integration of electri
 
 ## Overview of the platform
 
-![image](images/Figure_overview.pdf)
+![image](images/Figure_overview.png)
 
 ## How to build your own
 
