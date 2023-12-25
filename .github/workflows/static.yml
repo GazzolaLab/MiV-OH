@@ -40,4 +40,4 @@ jobs:
           path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: sphinx-notes/deploy-pages@v4
+        uses: sphinx-notes/pages@v3
