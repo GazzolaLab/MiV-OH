@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "MEAboard_128_footprint")(type "KiCad")(uri "${KIPRJMOD}/MEAboard_128_footprint.pretty")(options "")(descr ""))
-)
