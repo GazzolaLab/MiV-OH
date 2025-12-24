@@ -10,3 +10,4 @@ The PCB design for each recording configuration is provided here. Designs are ma
     - SBS 96-well plate version PCB128_SBS
 - [256 channel](PCB256.zip)
 - [512 channel](PCB512.zip)
+- [Sandwich MEA](SandwichMEA_PCB.zip)

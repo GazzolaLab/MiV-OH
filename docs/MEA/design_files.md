@@ -40,8 +40,25 @@ The design file is available [here](MEA512.GDS).
 
 ![Picture of 512 MEA](MEA512.png)
 
+## Strip Tissue MEA 
+The design file is available [here](StripTissue512.GDS).
+
+## Ring Tissue MEA 
+The design file is available [here](Ring-Tissue.GDS).
+
+
+## Y Tissue MEA 
+The design file is available [here](Y-Tissue.GDS.zip).
+
+## Sandwich MEA 
+The design file is available [here](Sandwich_MEA.GDS).
+
 # Reference:
 
 If you are using these designs, please cite the following paper:
 
 - [1] Zhang, Dou, Kim, Upadhyay, Havert, Kang, Kazemi, Huang, Aydin, Huang, Rahman, Ellis-Mohr, Noblet, Lim, Chung, Gritton, Saif, Kong, Beggs, Gazzola. ‘Mind in Vitro’ platforms: Versatile, scalable, robust and open solutions to interfacing with living neurons. bioRxiv, 2023, pp.2023-08
+  
+Additionally, if you are using Strip, Sandwich, Ring, or Y-tissue MEA layouts, please also cite: 
+
+- [2] Upadhyay, G., Kazemi, K., Kim, S.H., Zhang, X., Yuan, H., Dou, Z., Kang, S., Saif, M.T.A., Kong, H., Beggs, J., Gritton, H., and Gazzola, M.. Living Neurosheets: Engineering readily deployable neural architectures. bioRxiv, 2025, pp.2025-11.
